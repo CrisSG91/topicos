@@ -1,0 +1,6 @@
+C:\Users\Tey\Source\Repos\topicos\Ulatina.Electiva.Calentamiento\GatoGenerico\bin\Debug\GatoGenerico.exe.config
+C:\Users\Tey\Source\Repos\topicos\Ulatina.Electiva.Calentamiento\GatoGenerico\bin\Debug\GatoGenerico.exe
+C:\Users\Tey\Source\Repos\topicos\Ulatina.Electiva.Calentamiento\GatoGenerico\bin\Debug\GatoGenerico.pdb
+C:\Users\Tey\Source\Repos\topicos\Ulatina.Electiva.Calentamiento\GatoGenerico\obj\Debug\GatoGenerico.csproj.CoreCompileInputs.cache
+C:\Users\Tey\Source\Repos\topicos\Ulatina.Electiva.Calentamiento\GatoGenerico\obj\Debug\GatoGenerico.exe
+C:\Users\Tey\Source\Repos\topicos\Ulatina.Electiva.Calentamiento\GatoGenerico\obj\Debug\GatoGenerico.pdb
